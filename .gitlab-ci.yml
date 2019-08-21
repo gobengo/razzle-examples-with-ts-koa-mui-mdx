@@ -1,0 +1,4 @@
+include:
+- /etc/gitlab-ci/autodevops.gitlab-ci.yml
+- /etc/gitlab-ci/ssh-keys.gitlab-ci.yml
+- /etc/gitlab-ci/autodevops-docker-test.gitlab-ci.yml
